@@ -2,7 +2,9 @@
 
 This is an endless scoller game that only works with our custom Arduino controller. In this game, the player plays as a kite collecting stars and avoiding obstacles by tilting the physical controller. 
 
-This project was was made in collaboration as part of a team. 
+This project was was made in collaboration as part of a team. It uses OpenFramework.  
+
+The part with written code that actually makes the game work is in the folder 'src'. 
 
 Hitting a wall sound is called “negative guitar tone”
 https://mixkit.co/free-sound-effects/game/?page=2
